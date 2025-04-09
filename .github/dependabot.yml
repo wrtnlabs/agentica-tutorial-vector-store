@@ -9,7 +9,7 @@ updates:
     versioning-strategy: increase
     allow:
       - dependency-name: "@agentica/*"
-      - dependency-name: "openai"
+      # - dependency-name: "openai"
       - dependency-name: "typia"
       - dependency-name: "typescript"
       - dependency-name: "ts-patch"
@@ -18,7 +18,7 @@ updates:
       Agent:
         patterns:
           - "@agentica/*"
-          - "openai"
+          # - "openai"
           - "typia"
       Connector:
         patterns:
