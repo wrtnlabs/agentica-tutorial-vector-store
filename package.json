@@ -18,6 +18,6 @@
     "@agentica/openai-vector-store": "^0.0.9",
     "dotenv": "^16.4.7",
     "openai": "^4.86.0",
-    "typia": "^9.1.1"
+    "typia": "^9.2.0"
   }
 }
